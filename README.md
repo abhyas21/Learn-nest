@@ -2,7 +2,7 @@
 
 This repository currently includes the main source file:
 
-- `sip.c`
+- `eep.c`
 
 Other supporting project files are available in the local workspace but were not uploaded to this repository. Those files are:
 
@@ -12,7 +12,7 @@ Other supporting project files are available in the local workspace but were not
 - `EEP_Review-II_ppt Team-4.pptx`
 - `poster-External_TEAM_04.ppt`
 - `REVIEW-III  TEAM-4.pptx`
-- `SIP Review-I(team-10).pptx`
+- `EEP Review-I(team-10).pptx`
 - `team-4 problem statement (1) (1).docx`
 - `TEAM-4_ABSTRACT.docx`
 

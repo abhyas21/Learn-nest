@@ -3,7 +3,7 @@
 #include <stdint.h>
 
 /*
- * C version of the SIP learning and quiz controller.
+ * C version of the EEP learning and quiz controller.
  * Provide the declared platform functions in your target project.
  */
 
